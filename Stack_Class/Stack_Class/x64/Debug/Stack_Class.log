@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.cpp
+C:\Programming in Visual Studio\3_sem\Pnyav\Stack_Class_2.0\Stack_Class\Stack_Class\ConsoleApplication1.cpp(8,26): warning C4616: предупреждение #pragma: предупреждение с номером "2440" не является действительным предупреждением компилятора
+C:\Programming in Visual Studio\3_sem\Pnyav\Stack_Class_2.0\Stack_Class\Stack_Class\ConsoleApplication1.cpp(33,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Programming in Visual Studio\3_sem\Pnyav\Stack_Class_2.0\Stack_Class\Stack_Class\ConsoleApplication1.cpp(25,5): message : во время компиляции функции-члена класс шаблон "Stack<int>::Stack(std::list<T,std::allocator<T>>)"
+          with
+          [
+              T=int
+          ]
+C:\Programming in Visual Studio\3_sem\Pnyav\Stack_Class_2.0\Stack_Class\Stack_Class\ConsoleApplication1.cpp(378,22): message : см. первую ссылку на "Stack<int>::Stack" в "newTests"
+C:\Programming in Visual Studio\3_sem\Pnyav\Stack_Class_2.0\Stack_Class\Stack_Class\ConsoleApplication1.cpp(185,15): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Stack<int>"
+  Stack_Class.vcxproj -> C:\Programming in Visual Studio\3_sem\Pnyav\Stack_Class_2.0\Stack_Class\x64\Debug\Stack_Class.exe
